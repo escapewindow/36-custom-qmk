@@ -2,3 +2,4 @@
 *.iml
 *.bin
 *.zip
+.DS_Store
