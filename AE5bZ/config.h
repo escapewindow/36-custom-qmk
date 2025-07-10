@@ -13,7 +13,7 @@
 #undef MOUSEKEY_TIME_TO_MAX
 #define MOUSEKEY_TIME_TO_MAX 58
 
-#define SERIAL_NUMBER "AE5bZ/nljqDW"
+#define SERIAL_NUMBER "AE5bZ/jZalmw"
 #define LAYER_STATE_8BIT
 
 #define TAPPING_TERM_PER_KEY
